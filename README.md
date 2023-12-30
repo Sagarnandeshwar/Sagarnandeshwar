@@ -1,7 +1,7 @@
-## Hello there 👋 I am Sagar
+# Hello there 👋 I am Sagar
 I am an Honours Computer Science in the Faculty of Science at McGill.
 
-### Education
+## Education
 **Specialization:** Machine Learning and Computational Biology
 
 **Graduate Coursework:** Applied Machine Learning (COMP551), Computer Vision (COMP558), NLP (COMP550), Advanced Computer Systems
@@ -26,14 +26,14 @@ Structures (COMP250 and 252), Software Systems (COMP206 and 273), Intro to CS (C
 - Languages: English and Hindi
 - Certificate: Amazon AWS Solutions Architect Associate
 
-### Activity
+## Activity
 - Undegraduate TA at McGill
 - Undegraduate Researcher at McGill
 - AI Pilot developper at Vertical Flight Society McGill
 - Software Developer at Blockchain McGill
 - Software Developer Formula Electric Mcgill
 
-### Some Fun Facts
+## Some Fun Facts
 - I love sky divings; Did four in Switzerland, Dubai, Hawaii and Toronto
 - I play guitar professionally
 - I play chess, my current rating is 900
