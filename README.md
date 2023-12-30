@@ -15,6 +15,17 @@ Systems (COMP310), Software Design (COMP303), Programming Languages Paradigms (C
 Structures (COMP250 and 252), Software Systems (COMP206 and 273), Intro to CS (COMP 202), Discrete Mathematics (MATH 240 and
 340), Statistics (MATH324), Probability (MATH323), Calculus (MATH140, 141 and 222)
 
+## Skills
+- Programming Languages: Python, Java, C++, SQL, JavaScript, MATLAB, R, Bash, Ocaml
+- ML Libraries: Pandas, NLTK, Scikit-learn, Numpy, Pytorch, OpenCV, TensorFlow, Keras
+- Tools: Git, AWS, Docker, Kubernetes, Jenkins, JUnit, UML, Maven, Rest API, MIPS, ROS, Kafka
+- Web development: HTML, CSS, jQuery, Node.js, Express.js, APIs, React.js
+- Database: MySQL, MongoDB
+- Frameworks: Jupyter, Google Collab, Visual Studio, IDLE, Pycharm, Intellij, Netbeans
+- Operating Systems: Linux (Ubuntu), MacOS, Windows
+- Languages: English and Hindi
+- Certificate: Amazon AWS Solutions Architect Associate
+
 ### Activity
 - Undegraduate TA at McGill
 - Undegraduate Researcher at McGill
@@ -22,8 +33,8 @@ Structures (COMP250 and 252), Software Systems (COMP206 and 273), Intro to CS (C
 - Software Developer at Blockchain McGill
 - Software Developer Formula Electric Mcgill
 
-### Fun Fact
-- I have done 4 sky diving 
+### Some Fun Facts
+- I love sky divings; Did four in Switzerland, Dubai, Hawaii and Toronto
 - I play guitar professionally
 - I play chess, my current rating is 900
 
