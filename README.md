@@ -9,7 +9,7 @@ I am an Honours Computer Science in the Faculty of Science at McGill.
 Distributed Systems (COMP512), Computer Networks (COMP535), Machine Learning in Genomics and Healthcare (COMP565),
 Reinforcement Learning (COMP579) and Applied Robotics (COMP 514; guest student)
 
-**Honours Coursework:** Honours Research Project (COMP 400), Artificial Intelligence (COMP424), Robotics and Intelligent Systems
+**Honours CS Coursework:** Honours Research Project (COMP 400), Artificial Intelligence (COMP424), Robotics and Intelligent Systems
 (COMP417), Honours Algorithm Design (COMP362), Numerical Computing (COMP350), Theory of Computation (COMP330), Operating
 Systems (COMP310), Software Design (COMP303), Programming Languages Paradigms (COMP302), Honours Algorithms and Data
 Structures (COMP250 and 252), Software Systems (COMP206 and 273), Intro to CS (COMP 202), Discrete Mathematics (MATH 240 and
