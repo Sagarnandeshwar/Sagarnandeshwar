@@ -2,7 +2,6 @@
 I am an Honours Computer Science in the Faculty of Science at McGill.
 
 ## Education
-**Specialization:** Machine Learning and Computational Biology
 
 **Graduate Coursework:** Applied Machine Learning (COMP551), Computer Vision (COMP558), NLP (COMP550), Advanced Computer Systems
 (COMP513), Intelligent Software Systems (COMP585), Computational Biology Methods (COMP561), Data Science (COMP598),
