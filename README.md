@@ -47,7 +47,7 @@ I am an Honours Computer Science in the Faculty of Science at McGill University.
 - Amazon AWS Solutions Architect Associate - Nov’ 23
 
 ## Current Activities
-- TA at McGill
+- Teaching Assistant at McGill
 - Research Assistant at McGill
 - AI Pilot developper at Vertical Flight Society, McGill
 - Software Developer at Blockchain, McGill
