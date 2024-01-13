@@ -46,12 +46,12 @@ I am an Honours Computer Science in the Faculty of Science at McGill University.
 ## Professional Certificate:
 - Amazon AWS Solutions Architect Associate - Nov’ 23
 
-## Activity
-- Undegraduate TA at McGill
-- Undegraduate Researcher at McGill
-- AI Pilot developper at Vertical Flight Society McGill
-- Software Developer at Blockchain McGill
-- Software Developer Formula Electric Mcgill
+## Current Activities
+- TA at McGill
+- Research Assistant at McGill
+- AI Pilot developper at Vertical Flight Society, McGill
+- Software Developer at Blockchain, McGill
+- Software Developer Formula Electric, Mcgill
 
 ## Some Fun Facts
 - I love sky divings; Did four in Switzerland, Dubai, Hawaii and Toronto
