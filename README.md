@@ -1,9 +1,9 @@
 # Hello there 👋 I am Sagar
 I am an Honours Computer Science in the Faculty of Science at McGill University.
 
-## Education
+## Coursework
 
-**Graduate Coursework:** 
+**Graduate Level:** 
 - Distributed Systems (COMP512)
 - Advanced Computer Systems (COMP513)
 - Applied Robotics (COMP 514; guest student)
@@ -17,7 +17,7 @@ I am an Honours Computer Science in the Faculty of Science at McGill University.
 - Intelligent Software Systems (COMP585)
 - Data Science (COMP598)
 
-**Honours CS Coursework:** 
+**Undergraduate level:** 
 - Intro to CS (COMP 202)
 - Software Systems (COMP206 and 273)
 - Honours Algorithms and Data Structures (COMP250 and 252)
@@ -43,15 +43,15 @@ I am an Honours Computer Science in the Faculty of Science at McGill University.
 - Web development: JavaScript, HTML, CSS, jQuery, Node.js, React.js
 - Operating Systems: Linux(Ubuntu), MacOS, Windows
 
-## Professional Certificate:
-- Amazon AWS Solutions Architect Associate - Nov’ 23
-
 ## Current Activities
 - Teaching Assistant at McGill
 - Research Assistant at McGill
 - AI Pilot developper at Vertical Flight Society, McGill
 - Software Developer at Blockchain, McGill
 - Software Developer Formula Electric, Mcgill
+
+## Professional Certificate:
+- Amazon AWS Solutions Architect Associate - Nov’ 23
 
 ## Some Fun Facts
 - I love sky divings; Did four in Switzerland, Dubai, Hawaii and Toronto
