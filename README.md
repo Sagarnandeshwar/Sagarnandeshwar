@@ -1,5 +1,5 @@
 # Hello there 👋 I am Sagar
-I am an Honours Computer Science in the Faculty of Science at McGill University.
+I am an Honours Computer Science student in the Faculty of Science at McGill University.
 
 ## Coursework
 
