@@ -29,8 +29,8 @@ Intro to CS (COMP 202), Software Systems (COMP206 and 273), Honours Algorithms a
 
 ## Some Fun Facts
 - I love sky divings; Did four in Switzerland, Dubai, Hawaii and Toronto
-- I play guitar professionally
-- I play chess, my current rating is 900
+- I play guitar 
+- I play chess, my current rating is 980
 
 <!--
 **Sagarnandeshwar/Sagarnandeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
