@@ -3,11 +3,49 @@ I am an Honours Computer Science student in the Faculty of Science at McGill Uni
 
 ## Coursework
 
-**Graduate Level:** 
-Distributed Systems (COMP512), Advanced Computer Systems (COMP513), Applied Robotics (COMP 514; guest student), Computer Networks (COMP535), Natural Language Processing (COMP550), Applied Machine Learning (COMP551), Computer Vision (COMP558), Physics-Based Animation (COMP559), Computational Biology Methods (COMP561), Machine Learning in Genomics and Healthcare (COMP565), Reinforcement Learning (COMP579), Intelligent Software Systems (COMP585), Data Science (COMP598)
+### Graduate-Level Courses
+- **COMP 512** – Distributed Systems  
+- **COMP 513** – Advanced Computer Systems  
+- **COMP 535** – Computer Networks  
+- **COMP 550** – Natural Language Processing  
+- **COMP 551** – Applied Machine Learning  
+- **COMP 558** – Fundamentals of Computer Vision  
+- **COMP 559** – Physics-Based Animation  
+- **COMP 561** – Computational Biology Methods & Research  
+- **COMP 565** – Machine Learning in Genomics and Healthcare  
+- **COMP 579** – Reinforcement Learning  
+- **COMP 585** – Intelligent Software Systems  
+- **COMP 598** – Data Science
+- **COMP 514** – Applied Robotics
 
-**Undergraduate level:** 
-Intro to CS (COMP 202), Software Systems (COMP206 and 273), Honours Algorithms and Data Structures (COMP250 and 252), Programming Languages Paradigms (COMP302), Software Design (COMP303), Operating Systems (COMP310), Theory of Computation (COMP330), Numerical Computing (COMP350), Honours Algorithm Design (COMP362), Honours Research Project (COMP 400), Robotics and Intelligent Systems (COMP417), Artificial Intelligence (COMP424), Calculus (MATH140, 141 and 222), Discrete Mathematics (MATH 240 and 340), Probability (MATH323), Statistics (MATH324)
+### Undergraduate-Level Courses
+- **COMP 202** – Foundations of Programming  
+- **COMP 206** – Intro to Software Systems  
+- **COMP 250 & 252** – Honours Algorithms and Data Structures  
+- **COMP 273** – Intro to Computer Systems  
+- **COMP 302** – Programming Languages and Paradigms  
+- **COMP 303** – Software Design  
+- **COMP 310** – Operating Systems  
+- **COMP 330** – Theory of Computation  
+- **COMP 350** – Numerical Computing  
+- **COMP 362** – Honours Algorithm Design  
+- **COMP 400** – Honours Research Project  
+- **COMP 417** – Robotics and Intelligent Systems  
+- **COMP 424** – Artificial Intelligence  
+
+### Mathematics & Science Foundation
+- **MATH 133** – Linear Algebra and Geometry  
+- **MATH 140, 141, 222** – Calculus I, II, III  
+- **MATH 223** – Linear Algebra  
+- **MATH 240, 340** – Discrete Mathematics  
+- **MATH 323** – Probability  
+- **MATH 324** – Statistics  
+- **CHEM 120** – General Chemistry II  
+- **CHEM 181** – World of Chemistry: Food  
+- **PHYS 131** – Mechanics and Waves  
+- **PHYS 142** – Electromagnetism & Optics  
+- **PSYC 204** – Intro to Psychological Statistics  
+- **PSYC 305** – Statistics for Experimental Design
 
 ## Skills
 - Programming Languages: Python, Java, C++, MATLAB, R, Bash, Ocaml
