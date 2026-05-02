@@ -5,7 +5,8 @@ I am an Honours Computer Science student in the Faculty of Science at McGill Uni
 
 ### Graduate-Level Courses
 - **COMP 512** – Distributed Systems  
-- **COMP 513** – Advanced Computer Systems  
+- **COMP 513** – Advanced Computer Systems
+- **COMP 514** – Applied Robotics
 - **COMP 535** – Computer Networks  
 - **COMP 550** – Natural Language Processing  
 - **COMP 551** – Applied Machine Learning  
@@ -16,7 +17,6 @@ I am an Honours Computer Science student in the Faculty of Science at McGill Uni
 - **COMP 579** – Reinforcement Learning  
 - **COMP 585** – Intelligent Software Systems  
 - **COMP 598** – Data Science
-- **COMP 514** – Applied Robotics
 
 ### Undergraduate-Level Courses
 - **COMP 202** – Foundations of Programming  
